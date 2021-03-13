@@ -1,7 +1,7 @@
 > ### Write a program to create a circular doubly linked list and perform insertions and deletions of various cases
-#### Circular Doubly Linked List
+>#### Circular Doubly Linked List
 
-*Circular Doubly Linked List implementation by C programming Language
+> Circular Doubly Linked List implementation by C programming Language
 #### Operation:
         1. Create list
         2. Display list
@@ -13,9 +13,9 @@
         8. Delete a given node
         9. Exit
 
- * Programmed By MH Miyazi
- * For any query or suggestion feel open heart to contact me @ habibmiyazipro@gmail.com
- * Resource under free of copyright
- * Anyone Can be respectedly modify this code
+ > Programmed By MH Miyazi
+ > For any query or suggestion feel open heart to contact me @ habibmiyazipro@gmail.com
+ > Resource under free of copyright
+ > Anyone Can be respectedly modify this code
  
  
