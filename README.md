@@ -13,9 +13,9 @@
         8. Delete a given node
         9. Exit
 
- > Programmed By MH Miyazi
- > For any query or suggestion feel open heart to contact me @ habibmiyazipro@gmail.com
- > Resource under free of copyright
- > Anyone Can be respectedly modify this code
+ > *Programmed By MH Miyazi
+ > *For any query or suggestion feel open heart to contact me @ habibmiyazipro@gmail.com
+ > *Resource under free of copyright
+ > *Anyone Can be respectedly modify this code
  
  
