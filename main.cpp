@@ -1,4 +1,3 @@
-//Written By MH Miyazi
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
